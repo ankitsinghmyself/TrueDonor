@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527021918641",
+    "firebase_url": "https://truedonor-e40d1.firebaseio.com",
+    "project_id": "truedonor-e40d1",
+    "storage_bucket": "truedonor-e40d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527021918641:android:8b1bbc7d01611a29959590",
+        "android_client_info": {
+          "package_name": "com.ankit.truedonor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527021918641-99tv1guaploup8obqkjlh51nvhk53hj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqA6Q1dtVvnwF9YOO-3Dnxzso2T509qu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527021918641-99tv1guaploup8obqkjlh51nvhk53hj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179586831303",
+    "firebase_url": "https://thedonerapp.firebaseio.com",
+    "project_id": "thedonerapp",
+    "storage_bucket": "thedonerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179586831303:android:939fed892ee8415734bfe2",
+        "android_client_info": {
+          "package_name": "com.example.thedonerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179586831303-s011ql6vo107q8mgm8vfaab1lfo2nov2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrvHj0KzTQSZ_ty-Ps_ddYF0HUIwXnJwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179586831303-s011ql6vo107q8mgm8vfaab1lfo2nov2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
